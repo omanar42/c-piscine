@@ -1,0 +1,5 @@
+Credentials cache: API:4289
+        Principal: omanar@1337.MA
+
+  Issued                Expires               Principal
+Aug  2 17:54:33 2021  Aug  9 17:54:16 2021  krbtgt/1337.MA@1337.MA
